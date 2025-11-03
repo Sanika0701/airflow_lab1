@@ -203,5 +203,3 @@ This project demonstrates:
 ## 📄 License
 
 This project is created for educational purposes as part of MLOps coursework.
-
-**Note**: Remember to add sensitive files (`.env`, `logs/`, `model/`, `working_data/`) to `.gitignore` before pushing to GitHub.
