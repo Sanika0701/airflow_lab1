@@ -14,6 +14,10 @@ This lab demonstrates a production-ready ML workflow using Apache Airflow to aut
 - **Model evaluation** using elbow method and dendrogram analysis
 - **Automated scheduling** with daily runs
 
+  ## Airflow Output
+  <img width="1898" height="866" alt="image" src="https://github.com/user-attachments/assets/17550ff7-e1f8-4a98-a094-93308c863c57" />
+
+
 ## 🏗️ Architecture
 
 ```
